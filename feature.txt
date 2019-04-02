@@ -2,4 +2,6 @@
 - Feature was merged to master
 - Feature is updated by master
 - HotFIx append here
-master: change here will confict with hotfix when cherry-pick
+- master: change here will confict with hotfix when cherry-pick
+- hotfix: this change will introduce conflict to cherry-pick
+
